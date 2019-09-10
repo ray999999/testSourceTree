@@ -6,7 +6,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		1111
+		22222
 	}
 	
 	// Update is called once per frame
